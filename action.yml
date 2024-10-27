@@ -1,4 +1,4 @@
-name: 'release-please-action'
+name: 'release-please-action (abdh-dev/release-please)'
 description: 'automated releases based on conventional commits'
 author: Google LLC
 inputs:
